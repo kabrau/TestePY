@@ -1,1 +1,1 @@
-# TestePY
+# Examples of OpenCV in Python
